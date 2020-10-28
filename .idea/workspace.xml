@@ -152,6 +152,7 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="426c91dd-a598-4d3c-b6b3-ee4c8cf77b57" name="Default" comment="" />
@@ -162,7 +163,7 @@
       <workItem from="1589367654257" duration="10442000" />
       <workItem from="1589450764838" duration="6843000" />
       <workItem from="1589608390454" duration="160000" />
-      <workItem from="1603864246888" duration="413000" />
+      <workItem from="1603864246888" duration="722000" />
     </task>
     <servers />
   </component>
